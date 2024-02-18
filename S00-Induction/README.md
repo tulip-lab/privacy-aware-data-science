@@ -3,9 +3,9 @@
 
 # Unit Induction
 
-In this module, you will be introduced to essential information about what the *course* (aka *unit*) on `Statistical Machine Learning` is about, how it is organised, how you will learn, how it is assessed, and what you need to do to get started with your study. It is essential that you work through all information here in order to fully understand how this unit functions.
+In this module, you will be introduced to essential information about what the *course* (aka *unit*) on `Privacy-aware Data Science` is about, how it is organised, how you will learn, how it is assessed, and what you need to do to get started with your study. It is essential that you work through all information here in order to fully understand how this unit functions.
 
-Let's explore the world of `Statistical Machine Learning` together!
+Let's explore the world of `Privacy-aware Data Science` together!
 
 ## :notebook_with_decorative_cover: Lecture Slides Handouts
 

@@ -1,18 +1,19 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen)](../README.md)
 [![GitHub watchers](https://img.shields.io/badge/Module-Induction-orange)](README.md)
 
-# :clap: Welcome to `Statistical Machine Learning`
+# Welcome to `Privacy-aware Data Science` :clap: 
 
-Welcome to '*Statistical Machine Learning*', the unit on '*Theoretical Machine Learning*'. In this unit you will have the opportunity to learn basic aspects of statistical learning and related learning scheme, theorems and methods in machine learning. As an advanced unit for motivated students, it is designed to provide you with a solid foundation in the principles and techniques of machine learning, with a focus on the theoretical underpinnings that make these algorithms so powerful.
+Welcome to '*Privacy-aware Data Science*', the unit on '*Differential Privacy*'. As your instructor for this subject, I am excited to guide you through the nuances and complexities of this crucial field. Differential Privacy stands at the intersection of data science, mathematics, and ethics, offering robust solutions to the ever-present challenge of balancing data utility with individual privacy.
 
-We will explore a range of critical topics, starting with *Probably Approximately Correct* (PAC) learning. This concept will set the stage for understanding how machine learning algorithms can learn from data and make predictions with a given level of accuracy and confidence. We will dissect the intricacies of sample complexity, which is pivotal in understanding how much data is needed for a machine learning model to be effective.
+In this unit, we will delve into the theoretical foundations of differential privacy, explore its mathematical underpinnings, and understand its practical applications. You will learn about various mechanisms and algorithms that enable privacy-preserving data analysis, and we will also touch upon the ethical and legal aspects of data privacy.
 
-Another cornerstone of our course will be the exploration of *Vapnik-Chervonenkis* (VC) dimensions. This will provide us with a framework to comprehend the capacity of a machine learning model, balancing the trade-off between complexity and learning ability. Understanding VC dimensions is crucial for grasping why some models perform better than others and how to avoid overfitting. As we progress, we will also cover various algorithms and techniques, each building on our foundational knowledge. You will be challenged with real-world problems, assignments that will not only test your understanding but also enhance your practical skills.
 
 
 We will discuss the details of the modalities of this unit very soon, but keep in mind that the unit is designed around [`Sessions`](../README.md#Sessions). We would like you to go through the sessions following the [`Recommended Session Schedule`](../README.md#session-plan) at the time of your ease.
 
-I hope you find this unit enjoyable, challenging, and rewarding. The [unit team](S00B-Team.md) is here to help you succeed, and I am looking forward to an exciting course with you all. Together, we will uncover the mysteries of statistical machine learning and equip you with the knowledge to understand why particular algorithms were designed in their ways.  
+I encourage you to engage actively in lectures, discussions, and hands-on sessions. Your perspectives and questions will enrich our collective learning experience. Whether you aim to apply these concepts in academia, industry, or policy-making, this unit will equip you with the knowledge and skills necessary to navigate the complex landscape of data privacy.
+
+Together, we will unravel the intricacies of differential privacy and prepare you to make meaningful contributions in this vital area. The [unit team](S00B-Team.md) is here to help you succeed, and I look forward to an enlightening semester of learning, exploration, and discovery.
 
 Best wishes
 

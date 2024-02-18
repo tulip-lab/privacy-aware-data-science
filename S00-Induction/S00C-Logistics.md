@@ -5,11 +5,11 @@
 
 ## :male_detective: Teaching Method
 
-`Statistical Machine Learning` has shifted slightly from the traditional delivery of lectures into a multi-faceted teaching methodology that includes classroom teaching, in-depth student discussions and seminars on advanced topics. 
+`Privacy-aware Data Science` has shifted slightly from the traditional delivery of lectures into a multi-faceted teaching methodology that includes classroom teaching, in-depth student discussions and seminars on advanced topics.
 
-According to the plan, this unit needs a total of **48** class hours, including **32** hours teaching, and **16** hours student presentation/discussion. The unit content is structured around the following key aspects:
+According to the plan, this unit needs a total of **100** class hours, including **80** hours teaching, and **20** hours student presentation/discussion. The unit content is structured around the following key aspects:
 
-- **Building a strong foundation**: The unit focuses on providing fundamental knowledge of machine learning, including statistical learning framework, PAC-learning, sample complexity, fundamental theorem of learning, VC-dimension etc. By gaining a thorough understanding of these fundamental concepts and principles, students will be equipped to undertake the latest development in machine learning.
+- **Building a strong foundation**: The unit focuses on providing fundamental knowledge of data privacy, privacy-preserving data analysis techniques, balancing data utility with ethical and legal aspects of individual privacy protection. By gaining a thorough understanding of these fundamental concepts and principles, students will be equipped to undertake the latest development in data privacy.
 
 - **Instilling values and cultivating a scientific mindset**: The unit aims to instil in students the spirit of a scientist. Theoretical courses embed this scientific spirit, while practical courses emphasise its application. By fostering qualities such as the pursuit of truth, kindness, humility, critical thinking, innovation and cooperation, the unit contributes to the development of students' scientific character. It encourages questioning, analytical thinking, hypothesising, testing, experimenting and perseverance.
 
@@ -34,17 +34,17 @@ We would like you to go through the sessions at the time of your ease, and then 
 
 #### :dolphin: Preliminary Sessions
 
-We expect math background in `Linear Algebra`, `Probability and Statistics`, and `Optimization`. 
+We expect math background in `Linear Algebra`, `Probability and Statistics`, and `Optimization`, and also the background of `Statistical Machine Learning`:point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Statistical--Machine--Learning-brightgreen?style=plastic)](https://github.com/tulip-lab/statistical-machine-learning) 
 
 #### :koala: Core Sessions
 
-At the heart of the unit are **9** core sessions. These core sessions address the statistical machine learning theory that are relevant and important for researchers. Therefore, it is an essential requirement of this unit that all core sessions are completed.
+At the heart of the unit are **9** core sessions. These core sessions address the differential privacy theory that are relevant and important for researchers. Therefore, it is an essential requirement of this unit that all core sessions are completed.
 
 #### :eagle: Advanced Sessions
 
 In additional to [core sessions](#core-sessions), there are a series of advanced topics. These topics are **optional**, and they either build on the information in the [core sessions](#core-sessions) by exploring concepts in greater depth, or introduce new, more specialised topics.
 
-They are there for those wishing to expand their knowledge or explore specific topics in further detail. Depending on your course, you may like to choose those advanced topics which are most relevant.
+They are there for those wishing to expand their knowledge or explore specific topics in further detail. Depending on your university (or research supervisor), you may like to choose those advanced topics which are most relevant.
 
 
 ## :dart: Unit Learning Outcomes 
@@ -53,14 +53,15 @@ We aim to generate enthusiasm for theoretical machine learning and improve teach
 
 ### **ULO1** 
 
-Maintain in-depth knowledge of advances in machine learning, and use this knowledge to explain machine learning techniques and algorithms to a range of technical and non-technical audiences;
+**Understand Core Principles of Differential Privacy**: Students will gain a comprehensive understanding of differential privacy, including its mathematical foundations, privacy models, and the balance between data utility and privacy.
+
 
 ### **ULO2** 
 
-Justify proposed solutions by evaluating and comparing results from alternative approaches to solving real-world problems and exploring data using machine learning techniques.
+**Apply Privacy-Preserving Techniques**: Learners will develop the ability to implement differential privacy algorithms and mechanisms in practical data analysis scenarios, ensuring robust privacy protection while maintaining data utility.
 
 ### **ULO3** 
 
-Apply machine learning theory in a real-world project, formulate the problem and develop the solution and the methodology for a given scenario;  
+**Evaluate Ethical and Legal Implications**: Students will be able to critically assess the ethical and legal considerations in data privacy, enabling them to make informed decisions in the implementation of differential privacy in various contexts.
 
 

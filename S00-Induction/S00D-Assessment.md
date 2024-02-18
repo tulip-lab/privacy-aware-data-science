@@ -35,20 +35,8 @@ All groups are required to give one 25-minute presentation in this unit. The pre
 The group is required to prepare a presentation together with practical materials and video demonstration, for any of the following topics. Please note that most of the following listed topics are beyond the content covered in the lectures:
 
 
-- T01: **Markov Chain Monte Carlo** (MCMC) Method 
-  - Monte Carlo methods are computational techniques that make use of random numbers. The aims of Monte Carlo methods are to generate samples from a given probability distribution, or to estimate the expectations of functions under this distribution. MCMC is the Monte Carlo methods based on Markov Chain, and currently the state-of-the-art methods is the NUTS method:
-    - M. D. Hoffman, A. Gelman, [The No-U-Turn Sampler: Adaptively Setting Path Lengths in Hamiltonian Monte Carlo](http://arxiv.org/abs/1111.4246) (2011). 
-    - You can refer to the demo at: https://chi-feng.github.io/mcmc-demo/.
-
-- T02: **Gaussian Process**
-  - Gaussian process is the joint distribution of all those random variables, and as such, it is a distribution over functions with a continuous domain, e.g. time or space. A machine-learning algorithm that involves a Gaussian process uses lazy learning and a measure of the similarity between points to predict the value for an unseen point from training data.
-
-
-- T03: **Bayesian Optimization** 
-  - Bayesian optimization is a sequential design strategy for global optimization of black-box functions that does not assume any functional forms. It is usually employed to optimize expensive-to-evaluate functions, understanding this will benefit the training of large scale neural networks.
-
-- T04: **Chinese Restaurant Problem and Indian Buffet Problem** 
-  - the `Chinese Restaurant Problem` (CRP) and the `Indian Buffet Problem` (IBP) are both probabilistic models used to describe clustering or grouping phenomena. The CRP assigns customers to tables, while the IBP assigns customers to dishes. These models provide different perspectives on the process of assigning objects to clusters and have found applications in various areas, including machine learning, natural language processing, and social network analysis.
+- T01: **XYZ**  Method 
+  - [ ] to be added
 
 ### :mailbox_with_mail: Task :one: Submission
 
@@ -56,7 +44,7 @@ We will schedule the [presentation session](../README.md#session-plan) close to 
 
 Students are required to submit the Presentation files together with their group details to [unit chair](S00B-Team.md#contacts). The unit chair will reply with an acknowledgement email upon the successful arrival of your file. If you didn't receive any acknowledgement, it means that the submission was not received.
 
-- The suggested email subject should be something like: `[SML] Presentation TXX (Group XXX)`. 
+- The suggested email subject should be something like: `[PaDS] Presentation TXX (Group XXX)`. 
 - For large files, you can upload files to any cloud drive such as `Dropbox`, `OneDrive`, `QQ Drive`, `Baidu Pan` etc., and send me the access URL and password in your submission email.
 
 This assignment submission package should include the following components:
@@ -101,7 +89,7 @@ In this assignment, you are required to:
 3. Deliver a 25 minutes progress presentation on your project (25 marks).
 
 
-You are free to choose any project from the recommended lists as in this site: 
+You are free to choose any project which is marked with `NEXUS` from the recommended lists as in this site:
 
 - [TULIP Open-Projects](https://github.com/tulip-lab/open-projects)
 
@@ -120,7 +108,7 @@ Students are required to submit the Presentation files together with their group
 
 If you didn't receive any acknowledgement, it means that the submission was not received.
 
-- The suggested email subject should be something like: `[SML] Project Work (Group XXX)`. 
+- The suggested email subject should be something like: `[PaDS] Project Work (Group XXX)`. 
 - For large files, you can upload files to any cloud drive such as `Dropbox`, `OneDrive`, `QQ Drive`, `Baidu Pan` etc., and send me the access URL and password in your submission email.
 
 This task submission package should include the following components:
@@ -197,10 +185,11 @@ As mentioned above, we can provide you with a greater level of support, particul
 ## :confetti_ball: Activities
 
 Across the semester (the period of this unit delivery), we will have several sessions for student presentation or other feedback.  
+
 ### Activity 0
 
 ![GitHub watchers](https://img.shields.io/badge/PaDS-Learning--Activity-yellow)
-> :o2: Access this year's assessment tasks, make a study plan for your study, and think about forming a team for group assessment. 
+> :o2: Access this year's assessment tasks, make a study plan for your study, and think about forming a team for group assessment.
 
 
 ### Activity A

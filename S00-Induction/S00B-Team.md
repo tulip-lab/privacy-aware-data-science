@@ -10,9 +10,9 @@ Unit team comprises:
 | Role | Name  | Contact |
 | -------------- | ------------| ----- | 
 | *Unit Chair* | [Gang Li](https://member.acm.org/~gangli) |   gangli@duck.com  |
-| *Coordinator* (2024-SRM) | TBA | TBA |
+| *Coordinator* (2024) | TBA | TBA |
 
-If you are emailing to the unit team members, please ensure that the subject starts with `[SML-Year]` (replace `Year` by the year such as 2023, 2024, etc), and clearly describe the inquired session or assessment task etc.
+If you are emailing to the unit team members, please ensure that the subject starts with `[PaDS-Year]` (replace `Year` by the year such as `2023`, `2024`, etc.), and clearly describe the inquired session or assessment task etc.
 
 ## Social Network Platform  
 
