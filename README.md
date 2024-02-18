@@ -51,7 +51,7 @@ The unit plan is as below:
 | :microscope: <br> Session  |  :label: <br> Category  | :ledger: <br> Topic |  :dart: <br> ULOs  |  :man_teacher: <br> Activity |  
 | :----: |  :---: | ------|-------| ----- |  
 | :zero: | Preliminary | :book: [Induction](S00-Induction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) | [![GitHub watchers](https://img.shields.io/badge/PaDS-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-0) |  
-| :one: | Preliminary | :book: [Foundations](S01-Foundations/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
+| :one: | Preliminary | :book: [Theoretical Foundations](S01-Foundations/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
 | :two: | Core | :book: [Data Privacy](S02-Framework/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
 | :three: | Core | :book: [Privacy Attacks](S03-PAC/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
 | :four: | Core | :book: [Differential Privacy](S04-VCDim/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |    | 
