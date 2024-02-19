@@ -12,7 +12,7 @@
 
 # Privacy-aware Data Science
 
-- Also known as *Differential Privacy* or *Data Privacy*, this *course* (*unit*) was originally designed for various **PhD** by research students in some top Asia Pacific universities, including [Hunan University](https://www.hnu.edu.cn), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn) etc. (since 2018).
+- Also known as *Differential Privacy* or *Data Privacy*, this *course* (*unit*) was originally designed for various groups of research students in some top Asia Pacific universities, including [Hunan University](https://www.hnu.edu.cn), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn) etc. (since 2018).
 - Materials in this course include resources collected from various open-source online repositories. You are free to use, change and distribute this package.
 - If you found any issue/bug for this site, please submit an issue at [tulip-lab/privacy-aware-data-science](https://github.com/tulip-lab/privacy-aware-data-science/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/privacy-aware-data-science)](https://github.com/tulip-lab/privacy-aware-data-science/issues)
 - Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/privacy-aware-data-science)](https://github.com/tulip-lab/privacy-aware-data-science/pulls) 

@@ -1,5 +1,5 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-Data--Reconstruction-orange)](README.md)
+[![GitHub watchers](https://img.shields.io/badge/Module-MDP--LDP-orange)](README.md)
 
 # Multi-Party Differential Privacy and Local Differential Privacy
 
