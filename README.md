@@ -52,16 +52,16 @@ The unit plan is as below:
 | :----: |  :---: | ------|-------| ----- |  
 | :zero: | Preliminary | :book: [Induction](S00-Induction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) | [![GitHub watchers](https://img.shields.io/badge/PaDS-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-0) |  
 | :one: | Preliminary | :book: [Theoretical Foundations](S01-Foundations/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
-| :two: | Core | :book: [Data Privacy](S02-Framework/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
-| :three: | Core | :book: [Privacy Attacks](S03-PAC/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
-| :four: | Core | :book: [Differential Privacy](S04-VCDim/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |    | 
-| :five: | Core | :book: [Composition of Differential Privacy](S05-FundamentalTheory/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
-| :six: | Core | :book: [Sparse Vector Technique](S06-NUL/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
-| :seven: | Core | :book: [Query Release and The Net Mechanism](S07-Complexity/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2)  |   |  
-| :a: | Student Work | :book: [Selected Topics in DP](S00-Induction/S00D-Assessment.md#task-one---advanced-topic-presentation-25) | [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  [![GitHub watchers](https://img.shields.io/badge/PaDS-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-A) | 
-| :eight: | Core | :book: [DUA: Database Update Algorithm](S08-Optimization/README.md) |[ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
-| :nine: | Core | :book: [PTR Mechanism and S&A Mechanism](S09-RLM/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3)   |   |  
-| :keycap_ten: | Core | :book: [Low Bounds for Differential Privacy](S10-Privacy/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |   |  
+| :two: | Core | :book: [Data Privacy](S02-DataPrivacy/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
+| :three: | Core | :book: [Privacy Attacks](S03-PrivacyAttacks/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
+| :four: | Core | :book: [Differential Privacy](S04-DifferentialPrivacy/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |    | 
+| :five: | Core | :book: [Composition of Differential Privacy](S05-Composition/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
+| :six: | Core | :book: [Sparse Vector Technique](S06-SVT/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
+| :seven: | Core | :book: [Query Release and The Net Mechanism](S07-NetMechanism/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2)  |   |  
+| :a: | Student Work | :book: [Selected Topics in DP](S00-Induction/S00D-Assessment.md#task-one---advanced-topic-presentation-25) | [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  [![GitHub watchers](https://img.shields.io/badge/PaDS-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-A) |
+| :eight: | Core | :book: [DUA: Database Update Algorithm](S08-DUA/README.md) |[ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
+| :nine: | Core | :book: [PTR Mechanism and S&A Mechanism](S09-PTR/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3)   |   |  
+| :keycap_ten: | Core | :book: [Fundamental Law of Information Reconstruction](S10-Reconstruction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |   |  
 | :b: | Student Work | :book: [Selected Topics in DP](S00-Induction/S00D-Assessment.md#task-one---advanced-topic-presentation-25)  |  [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |  [![GitHub watchers](https://img.shields.io/badge/PaDS-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-B) | 
 
 #### Privacy-aware Data Science (II)
