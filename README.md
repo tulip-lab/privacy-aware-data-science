@@ -70,19 +70,18 @@ The unit plan is as below:
 
 | :microscope: <br> Session  |  :label: <br> Category  | :ledger: <br> Topic |  :dart: <br> ULOs  |  :man_teacher: <br> Activity |  
 | :----: |  :---: | ------|-------| ----- |  
-| :zero: | Preliminary | :book: [Induction](S00-Induction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) | [![GitHub watchers](https://img.shields.io/badge/PaDS-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-0) |  
-| :one: | Preliminary | :book: [Math Foundations](S01-Foundations/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
-| :two: | Core | :book: [Statistical Learning Framework](S02-Framework/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
-| :three: | Core | :book: [PAC Learning](S03-PAC/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
-| :four: | Core | :book: [VC Dimension](S04-VCDim/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |    | 
-| :five: | Core | :book: [Fundamental Theorem of PAC Learning](S05-FundamentalTheory/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
-| :six: | Core | :book: [Non-Uniform Learning](S06-NUL/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
-| :seven: | Core | :book: [Model Complexity](S07-Complexity/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2)  |   |  
-| :a: | Student Work | :book: [Selected Topics in SML](S00-Induction/S00D-Assessment.md#task-one---advanced-topic-presentation-25) | [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  [![GitHub watchers](https://img.shields.io/badge/PaDS-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-A) | 
-| :eight: | Core | :book: [Convex Optimization and Learning](S08-Optimization/README.md) |[ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
-| :nine: | Core | :book: [Regularized Loss Minimization](S09-RLM/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3)   |   |  
-| :keycap_ten: | Advanced | :book: [Data Privacy](S10-Privacy/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |   |  
-| :b: | Student Work | :book: [Selected Topics in SML](S00-Induction/S00D-Assessment.md#task-one---advanced-topic-presentation-25)  |  [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |  [![GitHub watchers](https://img.shields.io/badge/PaDS-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-B) | 
+| :one: | Advanced | :book: [PATE](S11-PATE/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
+| :two: | Advanced | :book: [M-DP and Local-DP](S12-LDP/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
+| :three: | Advanced | :book: [DP Learning](S13-DPLearning/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
+| :four: | Advanced | :book: [DP SGD](S14-DPSGD/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |    | 
+| :five: | Advanced | :book: [DP Clustering](S15-DPClustering/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
+| :six: | Advanced | :book: [Renyi-DP and zCDP](S16-Renyi/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
+| :seven: | Advanced | :book: [Privacy Amplification](S17-Amplification/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2)  |   |  
+| :a: | Student Work | :book: [Selected Topics in Advanced DP](S00-Induction/S00D-Assessment.md#task-one---advanced-topic-presentation-25) | [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  [![GitHub watchers](https://img.shields.io/badge/PaDS-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-A) | 
+| :eight: | Advanced | :book: [TBA](S00-Induction/README.md) |[ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
+| :nine: | Advanced | :book: [TBA](S00-Induction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3)   |   |  
+| :keycap_ten: | Advanced | :book: [TBA](S00-Induction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |   |  
+| :b: | Student Work | :book: [Selected Topics in Advanced DP](S00-Induction/S00D-Assessment.md#task-one---advanced-topic-presentation-25)  |  [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |  [![GitHub watchers](https://img.shields.io/badge/PaDS-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-B) | 
 | :trophy: | Advanced | :book: [Invited Talk and Discussions] | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |  [![GitHub watchers](https://img.shields.io/badge/PaDS-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-C)  | 
 
 
