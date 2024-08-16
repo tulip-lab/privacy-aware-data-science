@@ -7,7 +7,7 @@
 
 `Privacy-aware Data Science` has shifted slightly from the traditional delivery of lectures into a multi-faceted teaching methodology that includes classroom teaching, in-depth student discussions and seminars on advanced topics.
 
-According to the plan, this unit needs a total of **100** class hours, including **80** hours teaching, and **20** hours student presentation/discussion. The unit content is structured around the following key aspects:
+According to the plan, this unit needs a total of **100** class hours, including **72** hours teaching, and **28** hours student presentation/discussion. The unit content is structured around the following key aspects:
 
 - **Building a strong foundation**: The unit focuses on providing fundamental knowledge of data privacy, privacy-preserving data analysis techniques, balancing data utility with ethical and legal aspects of individual privacy protection. By gaining a thorough understanding of these fundamental concepts and principles, students will be equipped to undertake the latest development in data privacy.
 
@@ -23,7 +23,7 @@ Just because we give you a lot of the content in advance, it doesn't mean that w
 
 #### :microscope: Sessions
 
-To facilitate the study, we have organised the contents into a structure where each session corresponding to one set of classes. In each session, you are provided with the lecture slides handouts.
+To facilitate the study, we have organized the contents into a structure where each session corresponding to one set of classes. In each session, you are provided with the lecture slides handouts.
 
 Within this unit, you'll find [preliminary sessions](#preliminary-sessions), [core sessions](#core-sessions) and [advanced sessions](#advanced-sessions). We'll explain each of these, and how they relate to your unit assessment.
 
@@ -38,7 +38,7 @@ We expect math background in `Linear Algebra`, `Probability and Statistics`, and
 
 #### :koala: Core Sessions
 
-At the heart of the unit are **9** core sessions. These core sessions address the differential privacy theory that are relevant and important for researchers. Therefore, it is an essential requirement of this unit that all core sessions are completed.
+At the heart of the unit are **10** core sessions. These core sessions address the differential privacy theory that are relevant and important for researchers. Therefore, it is an essential requirement of this unit that all core sessions are completed.
 
 #### :eagle: Advanced Sessions
 

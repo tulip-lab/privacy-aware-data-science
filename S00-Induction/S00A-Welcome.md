@@ -11,7 +11,7 @@ In this unit, we will delve into the theoretical foundations of differential pri
 
 We will discuss the details of the modalities of this unit very soon, but keep in mind that the unit is designed around [`Sessions`](../README.md#Sessions). We would like you to go through the sessions following the [`Recommended Session Schedule`](../README.md#session-plan) at the time of your ease.
 
-I encourage you to engage actively in lectures, discussions, and hands-on sessions. Your perspectives and questions will enrich our collective learning experience. Whether you aim to apply these concepts in academia, industry, or policy-making, this unit will equip you with the knowledge and skills necessary to navigate the complex landscape of data privacy.
+I encourage you to engage actively in lectures, discussions, and hands-on sessions. Your perspectives and questions will enrich our collective learning experience. Whether you aim to apply these concepts in academia, industry, or policymaking, this unit will equip you with the knowledge and skills necessary to navigate the complex landscape of data privacy.
 
 Together, we will unravel the intricacies of differential privacy and prepare you to make meaningful contributions in this vital area. The [unit team](S00B-Team.md) is here to help you succeed, and I look forward to an enlightening semester of learning, exploration, and discovery.
 
@@ -21,12 +21,10 @@ Best wishes
 
 <details>
 <summary>Unit Chair</summary>
-
-- :phone: +61(3)92517434
   
 - :postbox: gangli@duck.com
 
-- :link: https://www.deakin.edu.au/about-deakin/people/gang-li
+- :link: https://experts.deakin.edu.au/28663-Gang-Li
 </details>
 
 

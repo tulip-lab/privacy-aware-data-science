@@ -27,5 +27,5 @@ Please click on the links above to download the corresponding lecture slides.
 
 In summary, the main message is that the story is about you. You are the learner, so we ask that you participate actively in your own *learning* to achieve your own goals. That does not mean that you also have to do the *teaching* - you can leave that part to us. So have a go at the first module - you should find that things will start to make sense after that.
 
-Also, please remember that we are here to support and guide you, ready to jump in if you have a question - just shout out. You are not on your own.
+Also, please remember that we are here to support and guide you, ready to jump in if you have a question - just :scream_cat: shout out. You are not on your own.
 
