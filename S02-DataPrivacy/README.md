@@ -11,7 +11,7 @@ Privacy attacks are diverse and sophisticated. One common method is hacking, whe
 
 Other privacy attacks are more subtle yet equally damaging. For instance, data inference attacks use advanced analytics to deduce sensitive information from seemingly innocuous data. Social engineering attacks manipulate individuals into disclosing confidential information. Additionally, insufficient anonymization in publicly released datasets can lead to re-identification attacks, where attackers piece together anonymized data with other information to identify individuals.
 
-Understanding the landscape of data privacy, the nature of breaches, and the variety of attacks is crucial in developing effective strategies to protect personal and sensitive data in an increasingly connected world. As data continues to be a valuable and vulnerable asset, prioritizing privacy and security is not just a technical necessity but also an ethical imperative.
+Understanding the trend of big data, AI,  the  landscape of data privacy, the nature of breaches, and the variety of attacks is crucial in developing effective strategies to protect personal and sensitive data in an increasingly connected world. As data continues to be a valuable and vulnerable asset, prioritizing privacy and security is not just a technical necessity but also an ethical imperative.
 
 In this session, we will cover the privacy concerns in the big data era.
 
@@ -30,7 +30,7 @@ In this session, we will cover the privacy concerns in the big data era.
 - C Post. [Three Concepts of Privacy](https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1184&context=fss_papers), THE GEORGETOWN LAW JOURNAL, 89:12, 2000
 
 
-
+y
 ##### Privacy Concerns
 
 - [A Face Is Exposed for AOL Searcher: No. 4417749 ](https://www.nytimes.com/2006/08/09/technology/09aol.html), The New York Times.
