@@ -12,7 +12,7 @@
 
 # Privacy-aware Data Science
 
-- Also known as *Differential Privacy* or *Data Privacy*, this *course* (*unit*) was originally designed for various groups of research students in some top Asia Pacific universities, including [Hunan University](https://www.hnu.edu.cn), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn) etc. (since 2018).
+- Also known as *Differential Privacy* or *Data Privacy*, this *course* (*unit*) was originally designed for various groups of research students in some top Asia Pacific universities, including [SRM Institute of Science and Technology](https://www.srmist.edu.in/), [Hunan University](https://www.hnu.edu.cn), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn) etc. (since 2018).
 - Materials in this course include resources collected from various open-source online repositories. You are free to use, change and distribute this package.
 - If you found any issue/bug for this site, please submit an issue at [tulip-lab/privacy-aware-data-science](https://github.com/tulip-lab/privacy-aware-data-science/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/privacy-aware-data-science)](https://github.com/tulip-lab/privacy-aware-data-science/issues)
 - Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/privacy-aware-data-science)](https://github.com/tulip-lab/privacy-aware-data-science/pulls) 
@@ -108,6 +108,7 @@ The detailed assessment specification and marking rubrics can be found at:
 
 #### :spiral_calendar: Submission Due Dates
 
+- **HNU 2025** - Details to be available. 
 - **SRM 2024** - The final assessment files submissions due date is :spiral_calendar: `Saturday, 18/05/2024` (tentative), group of **one** member only (**individual** work) for all tasks.
 
 It is expected that you will submit each assessment component on time. You will not be allowed to start everything at the last moment, because we will provide you with feedback that you will be expected to use in future assessments.
@@ -123,6 +124,8 @@ It is expected that you will submit each assessment component on time. You will 
 
 This course uses several key references or textbooks, together with relevant publications from **[TULIP Lab](https://www.tulip.academy/members)**:
 
+- [Digital Privacy Under Attack: Challenges and Enablers](https://arxiv.org/abs/2302.09258), by
+Baobao Song, Shiva Raj Pokhrel, Mengyue Deng, Qiujun Lan, Tianqing Zhu, Robin Doss, **Gang Li**
 - [The Algorithmic Foundations of Differential Privacy](http://dx.doi.org/10.1561/0400000042), by Cynthia Dwork and Aaron Roth
 - [Differentially Private Data Publishing and Analysis: a Survey](https://doi.org/10.1109/TKDE.2017.2697856), Tianqing Zhu, **Gang Li**, Wanlei Zhou, and Philip S Yu. IEEE Transactions on Knowledge and Data Engineering, 2017, 29(8): 1619-1638.
 - [Differential Privacy and Applications](https://www.springer.com/in/book/9783319620022), Tianqing Zhu, **Gang Li**, Wanlei Zhou, Philip S. Yu.  2017. AIS 69, Springer.
