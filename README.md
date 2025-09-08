@@ -12,7 +12,7 @@
 
 # Privacy-aware Data Science
 
-- Also known as *Differential Privacy* or *Data Privacy*, this *course* (*unit*) was originally designed for various groups of research students in some top Asia Pacific universities, including [Hunan University](https://www.hnu.edu.cn), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn) etc. (since 2018).
+- Also known as *Differential Privacy* or *Data Privacy*, this *course* (*unit*) was originally designed for various groups of research students in some top Asia Pacific universities, including [SRM Institute of Science and Technology](https://www.srmist.edu.in/), [Hunan University](https://www.hnu.edu.cn), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn) etc. (since 2018).
 - Materials in this course include resources collected from various open-source online repositories. You are free to use, change and distribute this package.
 - If you found any issue/bug for this site, please submit an issue at [tulip-lab/privacy-aware-data-science](https://github.com/tulip-lab/privacy-aware-data-science/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/privacy-aware-data-science)](https://github.com/tulip-lab/privacy-aware-data-science/issues)
 - Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/privacy-aware-data-science)](https://github.com/tulip-lab/privacy-aware-data-science/pulls) 
@@ -20,7 +20,7 @@
 
 - Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
 
-Prepared by **[TULIP Lab](https://www.tulip.org.au/members)**
+Prepared by :tulip: **[TULIP Lab](https://www.tulip.academy/members)**
 
 ---
 
@@ -28,19 +28,19 @@ Prepared by **[TULIP Lab](https://www.tulip.org.au/members)**
 
 This *course* (aka *unit*) offers a focused study of `Differential Privacy`, tailored for data science and computer science professionals. It starts with an overview of data privacy concerns, leading into the core concepts of differential privacy, including ε-differential privacy, δ-approximations, and noise addition mechanisms like the Laplace and Exponential methods.
 
-Key components include applying differential privacy to statistical analysis and machine learning, adapting conventional techniques to uphold privacy standards. Advanced topics cover federated learning and decentralized systems, emphasizing the field's evolving nature. Discussions on ethical and legal aspects of data privacy are included, preparing students to implement privacy-preserving solutions in various professional settings. The course aims to equip participants with essential skills in designing and managing privacy-conscious data analysis projects.
+Key components include applying differential privacy to statistical analysis and machine learning, adapting conventional techniques to uphold privacy standards. Advanced topics cover federated learning and decentralized systems, emphasizing the field's evolving nature. Discussions on ethical and legal aspects of data privacy are included, preparing students to implement privacy-preserving solutions in various professional settings. The course aims to equip participants with essential skills in designing and managing privacy-conscious data science projects.
 
 
 ## :ledger: Sessions
 
-Students will have access to a comprehensive range of subject materials, comprising slides handouts, assessment documents, and relevant readings. It is recommended that students commence their engagement with each session by thoroughly reviewing the pertinent slides handouts and readings to obtain a comprehensive understanding of the content.
+Students will have access to a comprehensive range of subject materials, comprising slides handouts, and relevant readings. It is recommended that students commence their engagement with each session by thoroughly reviewing the pertinent slides handouts and readings to obtain a comprehensive understanding of the content.
 
 Additionally, students are encouraged to supplement their knowledge by conducting independent research, utilizing online resources or referring to textbooks that cover relevant information related to the topics under study.
 
 
 ### :spiral_calendar: Session Plan
 
-The proposed unit is structured to encompass a total of **100** class hours. This allocation includes **80** hours dedicated to instruction and teaching, complemented by **20** hours set aside for student presentations and discussions.
+The proposed unit is structured to encompass a total of **100** class hours. This allocation includes **72** hours dedicated to instruction and teaching, complemented by **28** hours set aside for student presentations and discussions.
 
 For optimal integration into university curricula, it is suggested that this unit be divided into two distinct segments (or two consecutive units). This approach is more aligned with typical academic scheduling and facilitates a more manageable and effective learning experience.
 
@@ -108,6 +108,7 @@ The detailed assessment specification and marking rubrics can be found at:
 
 #### :spiral_calendar: Submission Due Dates
 
+- **HNU 2025** - Details to be available. 
 - **SRM 2024** - The final assessment files submissions due date is :spiral_calendar: `Saturday, 18/05/2024` (tentative), group of **one** member only (**individual** work) for all tasks.
 
 It is expected that you will submit each assessment component on time. You will not be allowed to start everything at the last moment, because we will provide you with feedback that you will be expected to use in future assessments.
@@ -121,10 +122,14 @@ It is expected that you will submit each assessment component on time. You will 
 
 ## :books: References
 
-This course uses several key references or textbooks, together with relevant publications from **[TULIP Lab](https://www.tulip.org.au/members)**:
+This course uses several key references or textbooks, together with relevant publications from **[TULIP Lab](https://www.tulip.academy/members)**:
 
+- [Digital Privacy Under Attack: Challenges and Enablers](https://arxiv.org/abs/2302.09258), by
+Baobao Song, Shiva Raj Pokhrel, Mengyue Deng, Qiujun Lan, Tianqing Zhu, Robin Doss, **Gang Li**
 - [The Algorithmic Foundations of Differential Privacy](http://dx.doi.org/10.1561/0400000042), by Cynthia Dwork and Aaron Roth
-- [Research Publications](https://www.tulip.org.au/publication), various resources and readings
+- [Differentially Private Data Publishing and Analysis: a Survey](https://doi.org/10.1109/TKDE.2017.2697856), Tianqing Zhu, **Gang Li**, Wanlei Zhou, and Philip S Yu. IEEE Transactions on Knowledge and Data Engineering, 2017, 29(8): 1619-1638.
+- [Differential Privacy and Applications](https://www.springer.com/in/book/9783319620022), Tianqing Zhu, **Gang Li**, Wanlei Zhou, Philip S. Yu.  2017. AIS 69, Springer.
+- [Research Publications](https://www.tulip.academy/publication), various resources and readings
 
 ## :point_right: Contributors 
 
