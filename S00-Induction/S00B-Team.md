@@ -10,7 +10,7 @@ Unit team comprises:
 | Role | Name  | Contact |
 | -------------- | ------------| ----- | 
 | *Unit Chair* | [Gang Li](https://member.acm.org/~gangli) |   gangli@duck.com  |
-| *Coordinator* | TBA | TBA |
+| *Coordinator (HNU)* | Miss Ruiying Li | TBA |
 
 If you are emailing to the unit team members, please ensure that the subject starts with `[PaDS-Year]` (replace `Year` by the year such as `2023`, `2024`, etc.), and clearly describe the inquired session or assessment task etc.
 
