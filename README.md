@@ -90,26 +90,12 @@ The unit plan is as below:
 
 Every cohort might be assessed differently, depending on the specific requirements of your universities.
 
-The assessment of the unit is mainly aimed at assessing the students' achievement of the unit learning outcomes (`ULOs`, a.k.a. objectives), and checking the students' mastery of those theorey and methods covered in the unit. 
-
-#### :book: Assessment Plan
-
-The detailed assessment specification and marking rubrics can be found at:
-[S00D-Assessment](S00-Induction/S00D-Assessment.md). The relationship between each assessment task and the ULOs are shown as follows:
-
-| :microscope: <br> Task  |   :man_teacher: <br> Category |  :dart: <br> [ULO1](S00-Induction/S00C-Logistics.md#ULO1)  | :dart: <br> [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |  :dart: <br> [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  Percentage | 
-| :----: |  :---: | ------|-------| ----- |  ----- |  
-| :one: | Presentation | 50%| 25%  |   25%  | **25%** |  
-| :two: | Project |  | 30%  |   70%  |  **50%** |
-| :two: | Report <br> Presentation | 20%| 40%  |  40%  |  **25%** |
-
-
-
+The assessment of the unit is mainly aimed at assessing the students' achievement of the unit learning outcomes (`ULOs`, a.k.a. objectives), and checking the students' mastery of those theory and methods covered in the unit. 
 
 #### :spiral_calendar: Submission Due Dates
 
-- **HNU 2025** - Details to be available. 
-- **SRM 2024** - The final assessment files submissions due date is :spiral_calendar: `Saturday, 18/05/2024` (tentative), group of **one** member only (**individual** work) for all tasks.
+- **HNU 2025** - The assessment can be found [here](S00-Induction/S00D-Assessment-HNU2025.md), and submissions due date is :spiral_calendar: `Wednesday, 08/10/2025`,
+- **SRM 2024** - The final [assessment](S00-Induction/S00D-Assessment.md) files submissions due date is :spiral_calendar: `Saturday, 18/05/2024` (tentative), group of **one** member only (**individual** work) for all tasks.
 
 It is expected that you will submit each assessment component on time. You will not be allowed to start everything at the last moment, because we will provide you with feedback that you will be expected to use in future assessments.
 
