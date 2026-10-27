@@ -1,7 +1,6 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-Data--Privacy-orange)](README.md)
+[Course portal](../README.md) · [Session map](../README.md#sessions) · [Companion Lab](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop)
 
-# Data Privacy
+# S02 — Data Privacy
 
 Data privacy, a critical aspect of modern information technology, concerns the proper handling, processing, and storage of personal data to protect individuals' privacy. As the digital landscape proliferates with massive volumes of data, the importance of safeguarding this information from unauthorized access and misuse becomes paramount.
 
@@ -15,20 +14,17 @@ Understanding the trend of big data, AI,  the  landscape of data privacy, the na
 
 In this session, we will cover the privacy concerns in the big data era.
 
+## Lecture handouts
 
-## :notebook_with_decorative_cover: Lecture Slides Handouts
-
-- [Lecture: Data Privacy](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP21.pdf) 
-
+- [Lecture: Data Privacy](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP21.pdf)
 
 ![Readings](https://img.shields.io/badge/PaDS-Readings-red)
 
-##### Privacy 
+##### Privacy
 
 - Samuel D. Warren and Louis D. Brandeis. [The Right to Privacy](https://www.cs.cornell.edu/~shmat/courses/cs5436/warren-brandeis.pdf). Harvard Law Review, 4(5):193, December 1890.
 - Ruth Gavison, [Privacy and the Limits of Law](https://www.jstor.org/stable/795891), The Yale Law Journal, 1980.
 - C Post. [Three Concepts of Privacy](https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1184&context=fss_papers), THE GEORGETOWN LAW JOURNAL, 89:12, 2000
-
 
 y
 ##### Privacy Concerns
@@ -39,12 +35,8 @@ y
 - Josh Taylor, [Melbourne professor quits after health department pressures her over data breach](https://www.inkl.com/news/melbourne-professor-quits-after-health-department-pressures-her-over-data-breach). The Guardian, March 2020.
 - [Your Apps Know Where You Were Last Night, and They are Not Keeping It Secret](https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html), The New York Times, December 2018.
 
-
-
 ##### Privacy Breach
-
 
 - Nicholas Carlini, Chang Liu, Úlfar Erlingsson, Jernej Kos, and Dawn Song. [The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks](https://arxiv.org/abs/1802.08232). arXiv:1802.08232 [cs], July 2019.
 
 - Huy Quan Vu, Rob Law, and **Gang Li**. [Breach of traveller privacy in location-based social media](https://doi.org/10.1080/13683500.2018.1553151),  Current Issues in Tourism, 2018.
-

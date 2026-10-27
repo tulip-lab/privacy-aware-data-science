@@ -1,7 +1,6 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-RDP--zCDP-orange)](README.md)
+[Course portal](../README.md) · [Session map](../README.md#sessions) · [Companion Lab](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop)
 
-# RDP and zCDP
+# S16 — RDP and zCDP
 
 Renyi Differential Privacy (RDP) and Zero-Concentrated Differential Privacy (zCDP) are two advanced variants of the traditional differential privacy model, each offering refined approaches to quantifying and managing privacy risks in data analysis.
 
@@ -11,7 +10,6 @@ Zero-Concentrated Differential Privacy, on the other hand, focuses on the concen
 
 Both RDP and zCDP represent significant advancements in the field of differential privacy, addressing specific limitations of the traditional model and providing more precise tools for privacy-preserving data analysis. They highlight the ongoing evolution in the field, aiming to offer more flexible and mathematically rigorous frameworks to manage privacy risks in the era of big data.
 
-## :notebook_with_decorative_cover: Lecture Slides Handouts  
+## Lecture handouts
 
-- [Lecture: RDP and zCDP](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP35.pdf) 
-
+- [Lecture: RDP and zCDP](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP35.pdf)

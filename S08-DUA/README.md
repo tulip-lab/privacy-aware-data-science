@@ -1,7 +1,6 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-Database--Update--Algorithm-orange)](README.md)
+[Course portal](../README.md) · [Session map](../README.md#sessions) · [Companion Lab](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop)
 
-# Database Update Algorithm
+# S08 — Database Update Algorithm
 
 The `Database Update Algorithm`, `Iterative Construction mechanism`, and `Multiplicative Weights mechanism` are advanced methodologies in the realm of differential privacy, each offering unique approaches to managing and analyzing sensitive data.
 
@@ -13,7 +12,6 @@ The *Multiplicative Weights* mechanism is a versatile tool in privacy-preserving
 
 Together, these mechanisms contribute significantly to the field of differential privacy, offering robust solutions for maintaining privacy in various data management and analysis scenarios. They exemplify the innovative approaches being developed to harness the power of data while upholding the essential principles of privacy protection.
 
-## :notebook_with_decorative_cover: Lecture Slides Handouts
+## Lecture handouts
 
-- [Lecture: Database Update Algorithm](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP27.pdf) 
-
+- [Lecture: Database Update Algorithm](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP27.pdf)

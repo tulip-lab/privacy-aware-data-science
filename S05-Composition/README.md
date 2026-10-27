@@ -1,8 +1,6 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-DP--Composition-orange)](README.md)
+[Course portal](../README.md) · [Session map](../README.md#sessions) · [Companion Lab](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop)
 
-# Composition of Differential Privacy
-
+# S05 — Composition of Differential Privacy
 
 The Composition Theorems in Differential Privacy are crucial for understanding how privacy guarantees accumulate when multiple differential privacy mechanisms are applied, either sequentially or in parallel. This concept is vital for managing and maintaining privacy guarantees across multiple data analyses or queries.
 
@@ -18,7 +16,12 @@ Privacy Budget in differential privacy is a crucial concept that quantifies the 
 
 Understanding these aspects of composition in differential privacy is fundamental for implementing privacy-preserving data analysis in a manner that ensures robust and quantifiable privacy guarantees while enabling meaningful insights from data.
 
-## :notebook_with_decorative_cover: Lecture Slides Handouts
+## Lecture handouts
 
-- [Lecture: Composition of Differential Privacy](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP24.pdf) 
+- [Lecture: Composition of Differential Privacy](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP24.pdf)
 
+## Practical
+
+[S05A — Private exploration and budget accounting](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop/S05-Composition)
+provides the planned PaDS activity and a link to the existing public SIT742
+notebook. The PaDS-specific notebook is still planned.

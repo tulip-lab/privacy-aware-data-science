@@ -32,13 +32,19 @@ We would like you to go through the sessions at the time of your ease, and then 
 - A `session` `README.md` page: here you'll find the overview for the session, and most download materials are available through this page. It is especially important that you make note of these as they explain the sessions structure and the supplementary resources for the session. In order to successfully complete each session, you will need to ensure that you have achieved each of these objectives.
 
 
+<a id="preliminary-sessions"></a>
+
 #### :dolphin: Preliminary Sessions
 
 We expect math background in `Linear Algebra`, `Probability and Statistics`, and `Optimization`, and also the background of `Statistical Machine Learning`:point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Statistical--Machine--Learning-brightgreen?style=plastic)](https://github.com/tulip-lab/statistical-machine-learning) 
 
+<a id="core-sessions"></a>
+
 #### :koala: Core Sessions
 
-At the heart of the unit are **10** core sessions. These core sessions address the differential privacy theory that are relevant and important for researchers. Therefore, it is an essential requirement of this unit that all core sessions are completed.
+At the heart of the unit are **9** core sessions (S02–S10). These core sessions address the differential privacy theory that are relevant and important for researchers. Therefore, it is an essential requirement of this unit that all core sessions are completed.
+
+<a id="advanced-sessions"></a>
 
 #### :eagle: Advanced Sessions
 
@@ -46,6 +52,8 @@ In additional to [core sessions](#core-sessions), there are a series of advanced
 
 They are there for those wishing to expand their knowledge or explore specific topics in further detail. Depending on your university (or research supervisor), you may like to choose those advanced topics which are most relevant.
 
+
+<a id="unit-learning-outcomes"></a>
 
 ## :dart: Unit Learning Outcomes 
 

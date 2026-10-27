@@ -151,7 +151,7 @@ Final marks also depend on the quality and creativity of your writing, analysis 
 The final grade (or mark) you receive has a real meaning. A `Pass` reflects that *you have satisfactorily mastered all required learning*, while a higher grade indicates that *you've achieved above and beyond this basic understanding*. Typically, your final grade/mark reflects how much you have achieved in those sessions: 
 
 - `Pass`: Complete all [core sessions](S00C-Logistics.md#core-sessions).
-- `Credit`: Complete all [core sessions](S00C-sessions.md#core-sessions), plus one [advanced sessions](S00C-Logistics.md#advanced-sessions) or extra reading.
+- `Credit`: Complete all [core sessions](S00C-Logistics.md#core-sessions), plus one [advanced sessions](S00C-Logistics.md#advanced-sessions) or extra reading.
 - `Distinction`: Complete all [core sessions](S00C-Logistics.md#core-sessions), plus the assessment task which is related to [advanced sessions](S00C-Logistics.md#advanced-sessions) or extra reading (this includes the ones you would complete for a `Credit`), with **satisfactory** performance.
 - `High Distinction`: Complete all [core sessions](S00C-Logistics.md#core-sessions), plus the assessment task which is related to [advanced sessions](S00C-Logistics.md#advanced-sessions) or extra reading, with **outstanding** performance.  You may define and research an additional topic (that is, fulfil all the criteria for a `distinction`), and the teaching team will assist you in validating an appropriate topic for study.
 
@@ -179,7 +179,7 @@ As mentioned above, we can provide you with a greater level of support, particul
 
 #### :koko: Have a more personal issue affecting your studies?
 
-- [Teaching Team](S00B-Team.md#unit-team-contacts) - you can reach out to the teaching team directly by email, particularly in case of more personal problems.
+- [Teaching Team](S00B-Team.md#contacts) - you can reach out to the teaching team directly by email, particularly in case of more personal problems.
 - Email the coordinator or unit chair.
 
 ## :confetti_ball: Activities

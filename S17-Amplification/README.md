@@ -1,7 +1,6 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-Privacy--Amplification-orange)](README.md)
+[Course portal](../README.md) · [Session map](../README.md#sessions) · [Companion Lab](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop)
 
-# Privacy Amplification
+# S17 — Privacy Amplification
 
 Privacy Amplification is a critical concept in the field of cryptography and differential privacy, focused on enhancing the privacy guarantees of data or communication protocols. This concept becomes increasingly relevant in our data-driven world, where the need to protect sensitive information is paramount in the face of sophisticated threats and vulnerabilities.
 
@@ -11,7 +10,6 @@ In the context of differential privacy, Privacy Amplification is achieved by int
 
 Privacy Amplification in both cryptography and differential privacy underscores a fundamental principle: the strategic use of randomness and uncertainty can significantly strengthen privacy and security measures. As we navigate an era of increasingly complex data and communication systems, understanding and applying Privacy Amplification techniques become crucial for protecting sensitive information and maintaining individual privacy.
 
-## :notebook_with_decorative_cover: Lecture Slides Handouts  
+## Lecture handouts
 
-- [Lecture: Privacy Amplification](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP36.pdf) 
-
+- [Lecture: Privacy Amplification](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP36.pdf)

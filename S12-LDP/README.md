@@ -1,7 +1,6 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-MDP--LDP-orange)](README.md)
+[Course portal](../README.md) · [Session map](../README.md#sessions) · [Companion Lab](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop)
 
-# Multi-Party Differential Privacy and Local Differential Privacy
+# S12 — Multi-Party Differential Privacy and Local Differential Privacy
 
 Multi-Party Differential Privacy and Local Differential Privacy are two important variants of the differential privacy framework, each addressing unique challenges in preserving privacy in different data sharing and collection scenarios.
 
@@ -11,7 +10,6 @@ Local Differential Privacy (LDP), on the other hand, shifts the privacy-preservi
 
 Both MPDP and LDP extend the reach of differential privacy to more complex and realistic data environments. They represent crucial advancements in the field, addressing the need for privacy-preserving data analysis in decentralized and distributed data settings, and ensuring individual privacy is maintained in the face of large-scale data collection efforts.
 
-## :notebook_with_decorative_cover: Lecture Slides Handouts  
+## Lecture handouts
 
-- [Lecture: MDP & LDP](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP29.pdf) 
-
+- [Lecture: MDP & LDP](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP29.pdf)

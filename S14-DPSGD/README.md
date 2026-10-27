@@ -1,7 +1,6 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-DP--SGD-orange)](README.md)
+[Course portal](../README.md) · [Session map](../README.md#sessions) · [Companion Lab](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop)
 
-# Objective Perturbation and DP-SGD
+# S14 — Objective Perturbation and DP-SGD
 
 Objective Perturbation and Differential Privacy Stochastic Gradient Descent (DP-SGD) are two essential techniques in the field of differential privacy, particularly within the context of machine learning optimization.
 
@@ -11,7 +10,6 @@ Differential Privacy Stochastic Gradient Descent (DP-SGD) is a variation of the 
 
 Both Objective Perturbation and DP-SGD represent significant advancements in privacy-preserving machine learning. They provide robust frameworks for training a wide range of models, from linear classifiers to deep neural networks, ensuring that the privacy of the training data is protected without severely compromising the model's performance.
 
-## :notebook_with_decorative_cover: Lecture Slides Handouts  
+## Lecture handouts
 
-- [Lecture: Objective Perburtation](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP33.pdf) 
-
+- [Lecture: Objective Perburtation](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP33.pdf)

@@ -1,7 +1,6 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-Sparse--Vector--Technique-orange)](README.md)
+[Course portal](../README.md) · [Session map](../README.md#sessions) · [Companion Lab](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop)
 
-# Sparse Vector Technique
+# S06 — Sparse Vector Technique
 
 The `Sparse Vector Technique` (SVT) is a sophisticated algorithm within the realm of differential privacy, designed to efficiently handle queries over a dataset while maintaining privacy. SVT is particularly adept at dealing with situations where numerous queries are made, but only a few are expected to return significant results - a scenario common in large-scale data analysis.
 
@@ -11,7 +10,6 @@ One of the key advantages of SVT is its ability to control the privacy budget. I
 
 SVT has wide-ranging applications in data science, especially in scenarios requiring the analysis of large datasets while ensuring individual privacy. Its ability to balance the trade-off between data utility and privacy protection makes it an invaluable tool in the arsenal of differential privacy techniques.
 
-## :notebook_with_decorative_cover: Lecture Slides Handouts
+## Lecture handouts
 
-- [Lecture: Sparse Vector Technique](https://github.com/tulip-lab/handouts/blob/main/SML/FLIP25.pdf) 
-
+- [Lecture: Sparse Vector Technique](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP25.pdf)

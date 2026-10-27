@@ -1,7 +1,6 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-Data--Reconstruction-orange)](README.md)
+[Course portal](../README.md) · [Session map](../README.md#sessions) · [Companion Lab](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop)
 
-# Data Reconstruction
+# S10 — Data Reconstruction
 
 The Fundamental Law of Information Reconstruction and the Lower Bounds of Differential Privacy are critical concepts that underpin the theoretical framework of privacy-preserving data analysis.
 
@@ -11,7 +10,6 @@ The Lower Bounds of Differential Privacy refer to the theoretical limits on the 
 
 Together, these concepts form the cornerstone of differential privacy research, providing essential guidelines for the development of algorithms and frameworks that aim to harness the power of data while rigorously protecting individual privacy. They represent the ongoing efforts to balance the benefits of data-driven insights with the ethical imperative of safeguarding personal information.
 
-## :notebook_with_decorative_cover: Lecture Slides Handouts  
+## Lecture handouts
 
-- [Lecture: Data Reconstruction](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP29.pdf) 
-
+- [Lecture: Data Reconstruction](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP29.pdf)

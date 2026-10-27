@@ -1,7 +1,6 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-PATE-orange)](README.md)
+[Course portal](../README.md) · [Session map](../README.md#sessions) · [Companion Lab](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop)
 
-# Private Aggregation of Teacher Ensembles
+# S11 — Private Aggregation of Teacher Ensembles
 
 The Private Aggregation of Teacher Ensembles (PATE) is an innovative framework in the field of differential privacy, particularly in the context of machine learning. PATE addresses a fundamental challenge: how to train a machine learning model on sensitive data while preserving the privacy of the individuals represented in that data.
 
@@ -11,7 +10,6 @@ One of the main advantages of PATE is that it allows for the use of powerful, da
 
 The PATE framework exemplifies a growing trend in data science and artificial intelligence towards developing methodologies that are both effective and ethically responsible. It highlights the increasingly important role of privacy-preserving techniques in the age of big data, ensuring that advancements in AI and machine learning are not achieved at the expense of individual privacy.
 
-## :notebook_with_decorative_cover: Lecture Slides Handouts  
+## Lecture handouts
 
-- [Lecture: Private Aggregation of Teacher Ensembles](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP30.pdf) 
-
+- [Lecture: Private Aggregation of Teacher Ensembles](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP30.pdf)

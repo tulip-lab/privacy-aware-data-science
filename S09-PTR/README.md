@@ -1,7 +1,6 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-PTR&SA--Mechanisms-orange)](README.md)
+[Course portal](../README.md) · [Session map](../README.md#sessions) · [Companion Lab](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop)
 
-# *Propose-Test-Release* and *Subsample and Aggregate* Mechanism
+# S09 — *Propose-Test-Release* and *Subsample and Aggregate* Mechanism
 
 The Propose-Test-Release (PTR) mechanism and the Subsample and Aggregate mechanism are two innovative approaches in differential privacy, each addressing unique challenges in privacy-preserving data analysis.
 
@@ -11,11 +10,6 @@ The Subsample and Aggregate mechanism, on the other hand, is designed to handle 
 
 Both mechanisms represent significant advancements in differential privacy, offering flexible, scalable solutions for privacy-preserving data analysis. They reflect the ongoing evolution of the field, addressing the complex trade-offs between data utility and privacy in an increasingly data-driven world.
 
-## :notebook_with_decorative_cover: Lecture Slides Handouts
+## Lecture handouts
 
-- [Lecture: Advanced Mechanisms](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP28.pdf) 
-
-
-
-
-
+- [Lecture: Advanced Mechanisms](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP28.pdf)

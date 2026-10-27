@@ -1,7 +1,6 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-DP--Learning-orange)](README.md)
+[Course portal](../README.md) · [Session map](../README.md#sessions) · [Companion Lab](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop)
 
-# Private PAC Learning and DP Learning
+# S13 — Private PAC Learning and DP Learning
 
 Private Probably Approximately Correct (PAC) Learning and Differential Privacy Empirical Risk Minimization (DP ERM) Learning are two significant areas in the intersection of differential privacy and machine learning. These concepts represent advanced methodologies for learning from data while rigorously maintaining privacy.
 
@@ -11,7 +10,12 @@ Differential Privacy Empirical Risk Minimization (DP ERM) Learning, on the other
 
 Both Private PAC Learning and DP ERM Learning address the crucial challenge of developing effective machine learning models without sacrificing the privacy of the individuals represented in the data. These methodologies are increasingly relevant in the age of big data, where the need to extract insights from large datasets must be balanced against the imperative to protect individual privacy.
 
-## :notebook_with_decorative_cover: Lecture Slides Handouts  
+## Lecture handouts
 
-- [Lecture: DP Learning](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP32.pdf) 
+- [Lecture: DP Learning](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP32.pdf)
 
+## Practical
+
+[S13A — Private Naive Bayes and utility](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop/S13-DPLearning)
+provides the planned PaDS activity and a link to the existing public SIT742
+notebook. The PaDS-specific notebook is still planned.

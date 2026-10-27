@@ -1,129 +1,177 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen?style=plastic)](https://github.com/tulip-lab/privacy-aware-data-science)
-![GitHub Release Date](https://img.shields.io/github/release-date/tulip-lab/privacy-aware-data-science)
-![GitHub commits since latest release (by SemVer)](https://img.shields.io/github/commits-since/tulip-lab/privacy-aware-data-science/latest)
-[![GitHub issues](https://img.shields.io/github/issues/tulip-lab/privacy-aware-data-science)](https://github.com/tulip-lab/privacy-aware-data-science/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/privacy-aware-data-science)](https://github.com/tulip-lab/privacy-aware-data-science/pulls) 
-
-[![GitHub watchers](https://img.shields.io/github/watchers/tulip-lab/SML.svg?style=social&label=Watch)](https://GitHub.com/tulip-lab/privacy-aware-data-science/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/tulip-lab/SML.svg?style=social&label=Fork)](https://GitHub.com/tulip-lab/privacy-aware-data-science/network/)
-[![GitHub stars](https://img.shields.io/github/stars/tulip-lab/SML.svg?style=social&label=Star)](https://GitHub.com/tulip-lab/privacy-aware-data-science/stargazers/)
-
-----
-
-# Privacy-aware Data Science
-
-- Also known as *Differential Privacy* or *Data Privacy*, this *course* (*unit*) was originally designed for various groups of research students in some top Asia Pacific universities, including [SRM Institute of Science and Technology](https://www.srmist.edu.in/), [Hunan University](https://www.hnu.edu.cn), [University of Chinese Academy of Sciences](http://www.ucas.edu.cn) etc. (since 2018).
-- Materials in this course include resources collected from various open-source online repositories. You are free to use, change and distribute this package.
-- If you found any issue/bug for this site, please submit an issue at [tulip-lab/privacy-aware-data-science](https://github.com/tulip-lab/privacy-aware-data-science/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/privacy-aware-data-science)](https://github.com/tulip-lab/privacy-aware-data-science/issues)
-- Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/privacy-aware-data-science)](https://github.com/tulip-lab/privacy-aware-data-science/pulls) 
-- Preliminary unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Statistical--Machine--Learning-brightgreen?style=plastic)](https://github.com/tulip-lab/statistical-machine-learning) 
-
-- Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
-
-Prepared by :tulip: **[TULIP Lab](https://www.tulip.academy/members)**
+[![GitHub issues](https://img.shields.io/github/issues/tulip-lab/privacy-aware-data-science)](https://github.com/tulip-lab/privacy-aware-data-science/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/privacy-aware-data-science)](https://github.com/tulip-lab/privacy-aware-data-science/pulls) [![GitHub stars](https://img.shields.io/github/stars/tulip-lab/privacy-aware-data-science.svg?style=social&label=Star)](https://github.com/tulip-lab/privacy-aware-data-science/stargazers/) [![Companion Lab](https://img.shields.io/badge/companion-PaDS_Lab-1f6feb?logo=github)](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop)
 
 ---
 
-## :bulb: Content
+![TULIP Lab FLIP — Fundamentals of Learning and Intelligent Processing](https://raw.githubusercontent.com/tulip-lab/pattern-classification-lab/0cad4beb88a60a3b8d288f45b35c17d7ade4381a/Assets/images/flip-banner.png)
 
-This *course* (aka *unit*) offers a focused study of `Differential Privacy`, tailored for data science and computer science professionals. It starts with an overview of data privacy concerns, leading into the core concepts of differential privacy, including ε-differential privacy, δ-approximations, and noise addition mechanisms like the Laplace and Exponential methods.
+# FLIP: Privacy-aware Data Science
 
-Key components include applying differential privacy to statistical analysis and machine learning, adapting conventional techniques to uphold privacy standards. Advanced topics cover federated learning and decentralized systems, emphasizing the field's evolving nature. Discussions on ethical and legal aspects of data privacy are included, preparing students to implement privacy-preserving solutions in various professional settings. The course aims to equip participants with essential skills in designing and managing privacy-conscious data science projects.
+**FLIP** stands for **Fundamentals of Learning and Intelligent Processing**.
+This open course from [TULIP Lab](https://www.tulip.academy) develops the theory
+and practice of differential privacy, from privacy attacks and noise mechanisms
+to composition, private learning and advanced privacy models.
 
+The materials have supported research students at SRM Institute of Science and
+Technology, Hunan University and the University of Chinese Academy of Sciences
+since 2018.
 
-## :ledger: Sessions
+> The companion Lab is being developed. Its first two practical guides link to
+> existing public SIT742 notebooks; PaDS-specific notebooks are still planned.
+> The assessment dates listed below are historical references.
 
-Students will have access to a comprehensive range of subject materials, comprising slides handouts, and relevant readings. It is recommended that students commence their engagement with each session by thoroughly reviewing the pertinent slides handouts and readings to obtain a comprehensive understanding of the content.
+## Start here
 
-Additionally, students are encouraged to supplement their knowledge by conducting independent research, utilizing online resources or referring to textbooks that cover relevant information related to the topics under study.
+- [Welcome and course orientation](S00-Induction/README.md)
+- [Learning outcomes and teaching approach](S00-Induction/S00C-Logistics.md#unit-learning-outcomes)
+- [Session map](#sessions)
+- [Companion Lab](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop)
+- [Offerings](offerings/README.md)
+- [Assessment and historical offerings](#assessment-and-offerings)
+- [Teaching team and contact details](S00-Induction/S00B-Team.md#contacts)
 
+## Offerings
 
-### :spiral_calendar: Session Plan
+| Offering | Institution | Audience | Teaching allocation | Status |
+| --- | --- | --- | --- | --- |
+| [SRM 2026](offerings/srm/privacy-aware-data-science/2026/README.md) | SRM Institute of Science and Technology, Kattankulathur | Elite students | 14 sessions (50 minutes each) | Syllabus approved; dates to be confirmed |
 
-The proposed unit is structured to encompass a total of **100** class hours. This allocation includes **72** hours dedicated to instruction and teaching, complemented by **28** hours set aside for student presentations and discussions.
+See the [offering index](offerings/README.md) for offering pages and historical
+references. Each offering selects from the common course; its own syllabus
+defines the scope for that cohort.
 
-For optimal integration into university curricula, it is suggested that this unit be divided into two distinct segments (or two consecutive units). This approach is more aligned with typical academic scheduling and facilitates a more manageable and effective learning experience.
+## Prerequisites
 
-#### Privacy-aware Data Science (I)
+You should be comfortable with linear algebra, probability and statistics,
+optimisation, and basic machine learning. Python and familiarity with arrays,
+plots and train/test splits are useful for the practicals. The
+[Statistical Machine Learning course](https://github.com/tulip-lab/statistical-machine-learning)
+provides related background.
 
-The unit plan is as below:
+## Course outcomes
 
-| :microscope: <br> Session  |  :label: <br> Category  | :ledger: <br> Topic |  :dart: <br> ULOs  |  :man_teacher: <br> Activity |  
-| :----: |  :---: | ------|-------| ----- |  
-| :zero: | Preliminary | :book: [Induction](S00-Induction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) | [![GitHub watchers](https://img.shields.io/badge/PaDS-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-0) |  
-| :one: | Preliminary | :book: [Theoretical Foundations](S01-Foundations/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
-| :two: | Core | :book: [Data Privacy](S02-DataPrivacy/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
-| :three: | Core | :book: [Privacy Attacks](S03-PrivacyAttacks/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
-| :four: | Core | :book: [Differential Privacy](S04-DifferentialPrivacy/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |    | 
-| :five: | Core | :book: [Composition of Differential Privacy](S05-Composition/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
-| :six: | Core | :book: [Sparse Vector Technique](S06-SVT/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
-| :seven: | Core | :book: [Query Release and The Net Mechanism](S07-NetMechanism/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2)  |   |  
-| :a: | Student Work | :book: [Selected Topics in DP](S00-Induction/S00D-Assessment.md#task-one---advanced-topic-presentation-25) | [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  [![GitHub watchers](https://img.shields.io/badge/PaDS-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-A) |
-| :eight: | Core | :book: [DUA: Database Update Algorithm](S08-DUA/README.md) |[ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
-| :nine: | Core | :book: [PTR Mechanism and S&A Mechanism](S09-PTR/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3)   |   |  
-| :keycap_ten: | Core | :book: [Fundamental Law of Information Reconstruction](S10-Reconstruction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |   |  
-| :b: | Student Work | :book: [Selected Topics in DP](S00-Induction/S00D-Assessment.md#task-one---advanced-topic-presentation-25)  |  [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |  [![GitHub watchers](https://img.shields.io/badge/PaDS-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-B) | 
+The [unit learning outcomes](S00-Induction/S00C-Logistics.md#unit-learning-outcomes)
+cover three areas:
 
-#### Privacy-aware Data Science (II)
+1. **ULO1 — Understand** differential privacy principles, privacy models and
+   the balance between privacy and utility.
+2. **ULO2 — Apply** privacy-preserving algorithms and mechanisms in data analysis.
+3. **ULO3 — Evaluate** ethical and legal implications of data privacy.
 
-The unit plan is as below:
+## Companion lab site
 
-| :microscope: <br> Session  |  :label: <br> Category  | :ledger: <br> Topic |  :dart: <br> ULOs  |  :man_teacher: <br> Activity |  
-| :----: |  :---: | ------|-------| ----- |  
-| :one: | Advanced | :book: [PATE](S11-PATE/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
-| :two: | Advanced | :book: [M-DP and Local-DP](S12-LDP/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) |  |  
-| :three: | Advanced | :book: [DP Learning](S13-DPLearning/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
-| :four: | Advanced | :book: [DP SGD](S14-DPSGD/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |    | 
-| :five: | Advanced | :book: [DP Clustering](S15-DPClustering/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
-| :six: | Advanced | :book: [Renyi-DP and zCDP](S16-Renyi/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   | 
-| :seven: | Advanced | :book: [Privacy Amplification](S17-Amplification/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2)  |   |  
-| :a: | Student Work | :book: [Selected Topics in Advanced DP](S00-Induction/S00D-Assessment.md#task-one---advanced-topic-presentation-25) | [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  [![GitHub watchers](https://img.shields.io/badge/PaDS-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-A) | 
-| :eight: | Advanced | :book: [TBA](S00-Induction/README.md) |[ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |   |  
-| :nine: | Advanced | :book: [TBA](S00-Induction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3)   |   |  
-| :keycap_ten: | Advanced | :book: [TBA](S00-Induction/README.md) | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |   |  
-| :b: | Student Work | :book: [Selected Topics in Advanced DP](S00-Induction/S00D-Assessment.md#task-one---advanced-topic-presentation-25)  |  [ULO3](S00-Induction/S00C-Logistics.md#ULO3) |  [![GitHub watchers](https://img.shields.io/badge/PaDS-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-B) | 
-| :trophy: | Advanced | :book: [Invited Talk and Discussions] | [ULO1](S00-Induction/S00C-Logistics.md#ULO1) [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |  [![GitHub watchers](https://img.shields.io/badge/PaDS-Learning--Activity-yellow)](S00-Induction/S00D-Assessment.md#Activity-C)  | 
+The [PaDS Lab](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop)
+provides practical navigation and planned learning activities. Use the two
+sites together:
 
+1. read the session overview and linked lecture handout here;
+2. open the corresponding practical guide when one is listed;
+3. follow the upstream notebook's setup instructions and run its baseline;
+4. retain the requested evidence and explain the privacy assumptions.
 
+The initial practical path covers private exploration and budget accounting
+(S05A), followed by private classification and utility (S13A). Other sessions do
+not yet have a PaDS practical listed.
 
-### :u6e80: Assessment
+## Sessions
 
-Every cohort might be assessed differently, depending on the specific requirements of your universities.
+The original teaching plan allocates **100 class hours**: **72** for teaching
+and **28** for presentations and discussion. The two parts below can support
+separate or consecutive units; each delivery should specify its actual schedule.
+Session IDs identify content, not teaching weeks.
 
-The assessment of the unit is mainly aimed at assessing the students' achievement of the unit learning outcomes (`ULOs`, a.k.a. objectives), and checking the students' mastery of those theory and methods covered in the unit. 
+### Privacy-aware Data Science I
 
-#### :spiral_calendar: Submission Due Dates
+| Session | Category | Conceptual overview | Public practical |
+| :---: | :---: | --- | --- |
+| S00 | Preliminary | [Induction](S00-Induction/README.md) | — |
+| S01 | Preliminary | [Theoretical Foundations](S01-Foundations/README.md) | — |
+| S02 | Core | [Data Privacy](S02-DataPrivacy/README.md) | — |
+| S03 | Core | [Privacy Attacks](S03-PrivacyAttacks/README.md) | — |
+| S04 | Core | [Differential Privacy](S04-DifferentialPrivacy/README.md) | Prerequisite for S05A |
+| S05 | Core | [Composition](S05-Composition/README.md) | [S05A — Private exploration and accounting](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop/S05-Composition) — planned |
+| S06 | Core | [Sparse Vector Technique](S06-SVT/README.md) | — |
+| S07 | Core | [Query Release and the Net Mechanism](S07-NetMechanism/README.md) | — |
+| S08 | Core | [Database Update Algorithm](S08-DUA/README.md) | — |
+| S09 | Core | [Propose-Test-Release and Subsample-and-Aggregate](S09-PTR/README.md) | — |
+| S10 | Core | [Information Reconstruction](S10-Reconstruction/README.md) | — |
 
-- **HNU 2025** - The assessment can be found [here](S00-Induction/S00D-Assessment-HNU2025.md), and submissions due date is :spiral_calendar: `Wednesday, 08/10/2025`,
-- **SRM 2024** - The final [assessment](S00-Induction/S00D-Assessment.md) files submissions due date is :spiral_calendar: `Saturday, 18/05/2024` (tentative), group of **one** member only (**individual** work) for all tasks.
+### Privacy-aware Data Science II
 
-It is expected that you will submit each assessment component on time. You will not be allowed to start everything at the last moment, because we will provide you with feedback that you will be expected to use in future assessments.
+| Session | Category | Conceptual overview | Public practical |
+| :---: | :---: | --- | --- |
+| S11 | Advanced | [PATE](S11-PATE/README.md) | — |
+| S12 | Advanced | [Multi-party and Local DP](S12-LDP/README.md) | — |
+| S13 | Advanced | [DP Learning](S13-DPLearning/README.md) | [S13A — Private Naive Bayes and utility](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop/S13-DPLearning) — planned |
+| S14 | Advanced | [Objective Perturbation and DP-SGD](S14-DPSGD/README.md) | — |
+| S15 | Advanced | [Output Perturbation and DP Clustering](S15-DPClustering/README.md) | — |
+| S16 | Advanced | [Rényi DP and zCDP](S16-Renyi/README.md) | — |
+| S17 | Advanced | [Privacy Amplification](S17-Amplification/README.md) | — |
 
+The original plan also reserves three advanced-topic slots, student
+presentations and an invited talk. Their topics and timing depend on the
+particular delivery. The existing activity descriptions remain available:
+[orientation](S00-Induction/S00D-Assessment.md#activity-0),
+[early presentation](S00-Induction/S00D-Assessment.md#activity-a),
+[topic presentation](S00-Induction/S00D-Assessment.md#activity-b) and
+[project discussion](S00-Induction/S00D-Assessment.md#activity-c).
 
-<details><summary> :secret: </summary>
+## Assessment and offerings
 
->If you find that you are having trouble meeting your deadlines, contact the [Unit Chair](S00-Induction/S00B-Team.md). 
-</details>
+Assessment requirements depend on the university and teaching period. Confirm
+current dates, collaboration rules and submission instructions with the
+[teaching team](S00-Induction/S00B-Team.md#contacts).
 
+<a id="spiral_calendar-submission-due-dates"></a>
 
-## :books: References
+### Historical offering references
+
+| Offering | Public assessment reference | Recorded deadline |
+| --- | --- | --- |
+| HNU 2025 | [LLM-generated privacy regulation report](S00-Induction/S00D-Assessment-HNU2025.md) | 8 October 2025 |
+| SRM 2024 | [Presentation and project](S00-Induction/S00D-Assessment.md) | 18 May 2024, originally tentative; individual work |
+
+## References
 
 This course uses several key references or textbooks, together with relevant publications from **[TULIP Lab](https://www.tulip.academy/members)**:
 
-- [Digital Privacy Under Attack: Challenges and Enablers](https://arxiv.org/abs/2302.09258), by
-Baobao Song, Shiva Raj Pokhrel, Mengyue Deng, Qiujun Lan, Tianqing Zhu, Robin Doss, **Gang Li**
-- [The Algorithmic Foundations of Differential Privacy](http://dx.doi.org/10.1561/0400000042), by Cynthia Dwork and Aaron Roth
-- [Differentially Private Data Publishing and Analysis: a Survey](https://doi.org/10.1109/TKDE.2017.2697856), Tianqing Zhu, **Gang Li**, Wanlei Zhou, and Philip S Yu. IEEE Transactions on Knowledge and Data Engineering, 2017, 29(8): 1619-1638.
-- [Differential Privacy and Applications](https://www.springer.com/in/book/9783319620022), Tianqing Zhu, **Gang Li**, Wanlei Zhou, Philip S. Yu.  2017. AIS 69, Springer.
+- Baobao Song, Shiva Raj Pokhrel, Mengyue Deng, Qiujun Lan, Robin Ram Doss,
+  Tianqing Zhu and **Gang Li**.
+  [Digital Privacy Under Attack: Challenges and Enablers](https://doi.org/10.1145/3770853).
+  *ACM Computing Surveys*, **58**(4), pp. 1–35, 2026 (published online in 2025).
+  [Open manuscript](https://arxiv.org/abs/2302.09258).
+- Cynthia Dwork and Aaron Roth.
+  [The Algorithmic Foundations of Differential Privacy](https://doi.org/10.1561/0400000042).
+  *Foundations and Trends in Theoretical Computer Science*, **9**(3–4),
+  pp. 211–407, 2014. Now Publishers.
+- Tianqing Zhu, **Gang Li**, Wanlei Zhou and Philip S. Yu.
+  [Differentially Private Data Publishing and Analysis: A Survey](https://doi.org/10.1109/TKDE.2017.2697856).
+  *IEEE Transactions on Knowledge and Data Engineering*, **29**(8),
+  pp. 1619–1638, 2017.
+- Tianqing Zhu, **Gang Li**, Wanlei Zhou and Philip S. Yu.
+  [Differential Privacy and Applications](https://doi.org/10.1007/978-3-319-62004-6).
+  *Advances in Information Security*, vol. **69**. Springer International
+  Publishing, 2017.
 - [Research Publications](https://www.tulip.academy/publication), various resources and readings
 
-## :point_right: Contributors 
+## Contributors
 
-Thanks goes to these wonderful people :tulip:  
+Thanks goes to these wonderful people :tulip:
 
 <a href="https://github.com/tulip-lab/privacy-aware-data-science/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=tulip-lab/privacy-aware-data-science" />
 </a>
 
-
 Made with [contributors-img](https://contrib.rocks).
+
+## Contributing and material reuse
+
+Report course-page corrections through the
+[issue tracker](https://github.com/tulip-lab/privacy-aware-data-science/issues).
+Practical corrections belong in the
+[Lab issue tracker](https://github.com/tulip-lab/privacy-aware-data-science-lab/issues).
+The repository's existing [MPL-2.0 licence](LICENSE) remains in place; consult
+source-specific notices for linked third-party materials.
+
+Point of contact: [Prof. Gang Li](https://github.com/tuliplab).
+
+Prepared by :tulip: **[TULIP Lab](https://www.tulip.academy), Australia**

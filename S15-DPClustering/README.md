@@ -1,7 +1,6 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-DP--Clustering-orange)](README.md)
+[Course portal](../README.md) · [Session map](../README.md#sessions) · [Companion Lab](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop)
 
-# Output Perturbation and DP Clustering
+# S15 — Output Perturbation and DP Clustering
 
 Output Perturbation is a technique where noise is added to the output of a computation or algorithm to ensure differential privacy. This method is straightforward and widely applicable: after a function or model is computed using the sensitive dataset, noise calibrated to the sensitivity of the function is added to the result before it's released. This approach maintains the privacy of individual data points by ensuring that the output does not overly depend on any single entry. Output Perturbation is particularly useful in scenarios where the underlying computation is complex, but the output is relatively simple, such as in the case of regression coefficients or summary statistics.
 
@@ -9,7 +8,6 @@ DP Clustering, on the other hand, is a specialized application of differential p
 
 Both Output Perturbation and DP Clustering illustrate the versatility and challenges of implementing differential privacy in various data analysis contexts. They exemplify the ongoing efforts in the field to develop tools that can extract meaningful insights from data while rigorously upholding the standards of privacy protection.
 
-## :notebook_with_decorative_cover: Lecture Slides Handouts  
+## Lecture handouts
 
-- [Lecture: Privacy Amplification](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP36.pdf) 
-
+- [Lecture: Privacy Amplification](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP36.pdf)

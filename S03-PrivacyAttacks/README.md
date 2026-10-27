@@ -1,7 +1,6 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Privacy--aware--Data--Science-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-Privacy--Attacks-orange)](README.md)
+[Course portal](../README.md) · [Session map](../README.md#sessions) · [Companion Lab](https://github.com/tulip-lab/privacy-aware-data-science-lab/tree/develop)
 
-# Privacy Attacks
+# S03 — Privacy Attacks
 
 ### Introduction to Privacy Attacks
 
@@ -13,14 +12,11 @@ While Data Reconstruction Attacks focus on recreating the data itself, other pri
 
 These privacy attacks emphasize the urgent need for robust privacy-preserving mechanisms in data analysis and machine learning. As the complexity and scale of data processing continue to grow, so too must our efforts to develop and implement stronger safeguards against these types of vulnerabilities.
 
+## Lecture handouts
 
-## :notebook_with_decorative_cover: Lecture Slides Handouts
-
-- [Lecture: Privacy Attacks](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP22.pdf) 
-
+- [Lecture: Privacy Attacks](https://github.com/tulip-lab/handouts/blob/main/PaDS/FLIP22.pdf)
 
 ![Readings](https://img.shields.io/badge/PaDS-Readings-red)
-
 
 ##### Fundamental Law of Information Recovery
 
@@ -30,11 +26,9 @@ These privacy attacks emphasize the urgent need for robust privacy-preserving me
 
 - Cynthia Dwork, Frank McSherry, Kobbi Nissim, and Adam Smith. [Calibrating noise to sensitivity in private data analysis](https://link.springer.com/chapter/10.1007/11681878_14). In Conference on Theory of Cryptography, TCC '06, 2006.
 
+#####  Discussion of Reconstruction Attacks
 
-#####  Discussion of Reconstruction Attacks    
-
-- https://differentialprivacy.org/reconstruction-theory/ 
+- https://differentialprivacy.org/reconstruction-theory/
 - https://differentialprivacy.org/diffix-attack/
 - https://tech.vijayp.ca/of-taxis-and-rainbows-f6bc289679a1
 - https://chriswhong.com/open-data/foil_nyc_taxi/
-
