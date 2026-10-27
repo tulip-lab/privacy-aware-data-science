@@ -15,6 +15,7 @@ are to be confirmed.
 | Year | 2026 |
 | Audience | Elite students; advanced undergraduate preparation assumed |
 | Instructor | Prof. Gang Li |
+| Local contact (SRM) | G Suseela, Associate Professor |
 | Teaching allocation | **14 sessions × 50 minutes = 700 minutes (11 hours 40 minutes)** |
 | Structure | 12 foundation sessions, followed by 2 advanced overview sessions |
 
