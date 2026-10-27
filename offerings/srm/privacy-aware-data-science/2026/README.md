@@ -15,7 +15,7 @@
 | Audience | Elite students |
 | Teaching allocation | 14 sessions × 50 minutes = 700 minutes (11 hours 40 minutes) |
 | Instructor | Prof. Gang Li |
-| Local contact (SRM) | G Suseela, Associate Professor |
+| Local coordinator (SRM) | Associate Professor G Suseela |
 | Dates and delivery format | To be confirmed |
 
 ## Syllabus
